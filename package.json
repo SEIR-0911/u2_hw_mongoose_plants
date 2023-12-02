@@ -1,0 +1,15 @@
+{
+  "name": "u2_hw_mongoose_plants",
+  "version": "1.0.0",
+  "description": "# Mongoose Plants API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^8.0.2"
+  }
+}
